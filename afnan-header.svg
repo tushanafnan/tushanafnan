@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Tushan Afnan — Software Engineer</title>
+  <desc id="desc">A dark, precise banner for a software engineer working across full-stack systems and AI engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="58%" stop-color="#0b1b31"/>
+      <stop offset="100%" stop-color="#101b2a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="58%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#f6c667"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#123d5a" stop-opacity="0.86"/>
+      <stop offset="100%" stop-color="#111b32" stop-opacity="0.1"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#9cc9e8" stroke-opacity="0.075" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="340" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <path d="M0 292 C230 250 360 350 590 300 S970 225 1200 265" fill="none" stroke="#4f93bc" stroke-opacity="0.15" stroke-width="1.5"/>
+    <path d="M0 310 C240 270 370 360 610 315 S980 250 1200 285" fill="none" stroke="#f6c667" stroke-opacity="0.12" stroke-width="1"/>
+    <circle cx="1000" cy="164" r="194" fill="url(#orb)"/>
+    <circle cx="1000" cy="164" r="142" fill="none" stroke="#7dd3fc" stroke-opacity="0.28" stroke-width="1.2"/>
+    <circle cx="1000" cy="164" r="108" fill="none" stroke="#7dd3fc" stroke-opacity="0.24" stroke-width="1.2" stroke-dasharray="4 8"/>
+    <circle cx="1000" cy="164" r="71" fill="none" stroke="#f6c667" stroke-opacity="0.48" stroke-width="1.3"/>
+    <path d="M828 164 H911 L948 127 H1000 L1038 88 H1130" fill="none" stroke="url(#accent)" stroke-opacity="0.7" stroke-width="1.6"/>
+    <path d="M866 232 H932 L962 202 H1030 L1072 244 H1160" fill="none" stroke="#7dd3fc" stroke-opacity="0.46" stroke-width="1.4"/>
+    <path d="M1000 22 V78 M1000 250 V308 M858 164 H817 M1142 164 H1170" stroke="#c6e8f7" stroke-opacity="0.25" stroke-width="1"/>
+    <circle cx="948" cy="127" r="4" fill="#7dd3fc"/>
+    <circle cx="1038" cy="88" r="4" fill="#f6c667"/>
+    <circle cx="962" cy="202" r="4" fill="#7dd3fc"/>
+    <circle cx="1072" cy="244" r="4" fill="#f6c667"/>
+    <rect x="68" y="54" width="178" height="30" rx="15" fill="#142c43" stroke="#7dd3fc" stroke-opacity="0.38"/>
+    <circle cx="86" cy="69" r="4" fill="#f6c667"/>
+    <text x="100" y="74" fill="#c9e8f7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2.1">ENGINEERING / 001</text>
+    <text x="66" y="157" fill="#f3f7fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="61" font-weight="800" letter-spacing="-2.2">TUSHAN AFNAN</text>
+    <rect x="70" y="182" width="110" height="4" rx="2" fill="url(#accent)"/>
+    <text x="68" y="222" fill="#dce9f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600" letter-spacing="1.15">LEAD SOFTWARE ENGINEER</text>
+    <text x="68" y="254" fill="#9bb5c9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1.3">FULL-STACK SYSTEMS  ·  AI ENGINEERING  ·  INTELLIGENT SYSTEMS</text>
+    <text x="68" y="306" fill="#6f96b0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2.4">DESIGN WITH INTENT. BUILD FOR REAL USE.</text>
+    <path d="M68 326 H1132" stroke="#8dbad4" stroke-opacity="0.2" stroke-width="1"/>
+    <rect x="68" y="325" width="190" height="2" rx="1" fill="url(#accent)"/>
+  </g>
+</svg>
