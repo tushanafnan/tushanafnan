@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,55:164E63,100:6D28D9&text=01%20PROFILE&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=6&fontAlignY=58" width="100%" alt="Profile section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,55:164E63,100:6D28D9&text=01%20PROFILE&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Profile section" />
 </p>
 
 I'm Md. Sultanul Arefin Afnan (Tushan) — a software engineer and MSc Software Engineering student at Dalian University of Technology. I build full-stack applications, backend systems, and APIs, with experience spanning product delivery, platform architecture, team coordination, and production troubleshooting.
@@ -55,7 +55,7 @@ My current direction is AI engineering, with interests in agentic AI, machine le
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,55:1D4ED8,100:7C3AED&text=02%20FEATURED%20BUILDS&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=6&fontAlignY=58" width="100%" alt="Featured builds section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,55:1D4ED8,100:7C3AED&text=02%20FEATURED%20BUILDS&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Featured builds section" />
 </p>
 
 <table>
@@ -101,7 +101,7 @@ My current direction is AI engineering, with interests in agentic AI, machine le
 <p align="center"><sub>Project descriptions reflect my résumé. Public source links are included where available.</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:0F766E,100:2563EB&text=03%20EXPERIENCE&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=6&fontAlignY=58" width="100%" alt="Experience section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:0F766E,100:2563EB&text=03%20EXPERIENCE&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Experience section" />
 </p>
 
 <table>
@@ -140,7 +140,7 @@ My current direction is AI engineering, with interests in agentic AI, machine le
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:6D28D9,100:BE185D&text=04%20TECH%20STACK&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=6&fontAlignY=58" width="100%" alt="Technology stack section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:6D28D9,100:BE185D&text=04%20TECH%20STACK&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Technology stack section" />
 </p>
 
 <p align="center">
@@ -191,7 +191,7 @@ My current direction is AI engineering, with interests in agentic AI, machine le
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:7C3AED,100:DB2777&text=05%20RESEARCH%20DIRECTION&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=6&fontAlignY=58" width="100%" alt="Research direction section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:7C3AED,100:DB2777&text=05%20RESEARCH%20DIRECTION&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Research direction section" />
 </p>
 
 
@@ -199,7 +199,7 @@ My current technical direction is AI engineering, especially agentic AI and inte
 
 My broader technical interests include machine learning, blockchain, cryptography, autonomous systems, and scientific research. I aim to connect theoretical understanding with working implementations and careful evaluation.
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,55:0E7490,100:2563EB&text=06%20EDUCATION&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=6&fontAlignY=58" width="100%" alt="Education section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,55:0E7490,100:2563EB&text=06%20EDUCATION&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Education section" />
 </p>
 
 <table>
@@ -214,7 +214,7 @@ My broader technical interests include machine learning, blockchain, cryptograph
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:1D4ED8,100:0F766E&text=07%20GITHUB%20PULSE&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=6&fontAlignY=58" width="100%" alt="GitHub pulse section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:1D4ED8,100:0F766E&text=07%20GITHUB%20PULSE&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="GitHub pulse section" />
 </p>
 
 <p align="center">
@@ -233,7 +233,7 @@ My broader technical interests include machine learning, blockchain, cryptograph
 <p align="center"><sub>Stats and contribution visualizations are provided by third-party services and may occasionally be unavailable or delayed.</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:7C3AED,100:DB2777&text=08%20CONNECT%20WITH%20ME&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=6&fontAlignY=58" width="100%" alt="Connect section" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:7C3AED,100:DB2777&text=08%20CONNECT%20WITH%20ME&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Connect section" />
 </p>
 
 <p align="center">
