@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/afnan-header.svg" alt="Tushan Afnan — Lead Software Engineer | Full-stack Systems · AI Engineering · Intelligent Systems" width="100%" />
+  <img src="afnan-header.svg" alt="Tushan Afnan — Lead Software Engineer | Full-stack Systems · AI Engineering · Intelligent Systems" width="100%" />
 </p>
 
 <p align="center">
