@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,55:164E63,100:6D28D9&text=01%20PROFILE&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Profile section" />
+  <img src="section-about.svg" width="100%" alt="Profile section" />
 </p>
 
 I'm Md. Sultanul Arefin Afnan (Tushan) — a software engineer and MSc Software Engineering student at Dalian University of Technology. I build full-stack applications, backend systems, and APIs, with experience spanning product delivery, platform architecture, team coordination, and production troubleshooting.
@@ -55,14 +55,14 @@ My current direction is AI engineering, with interests in agentic AI, machine le
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,55:1D4ED8,100:7C3AED&text=02%20FEATURED%20BUILDS&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Featured builds section" />
+  <img src="section-builds.svg" width="100%" alt="Featured Builds section" />
 </p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <p><img src="https://img.shields.io/badge/APPLIED_AI%20%2F%20ML-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" alt="Applied AI and machine learning" /></p>
-      <h3><a href="https://github.com/tushanafnan/GlucoBuddy">GlucoBuddy ↗</a></h3>
+      <h2><a href="https://github.com/tushanafnan/GlucoBuddy">GlucoBuddy ↗</a></h2>
       A machine-learning-based diabetes-risk prediction platform designed to turn user health data into quick risk insights.
       <br /><br />
       <code>Machine Learning</code> <code>Health Data</code> <code>Web App</code>
@@ -72,7 +72,7 @@ My current direction is AI engineering, with interests in agentic AI, machine le
     </td>
     <td width="50%" valign="top">
       <p><img src="https://img.shields.io/badge/PRODUCT%20SYSTEM-0D9488?style=for-the-badge&logo=javascript&logoColor=white" alt="Product system" /></p>
-      <h3><a href="https://github.com/tushanafnan/Zentro">Zentro ↗</a></h3>
+      <h2><a href="https://github.com/tushanafnan/Zentro">Zentro ↗</a></h2>
       A cloud-kitchen management system organized around food-ordering workflows and a practical, accessible user experience.
       <br /><br />
       <code>JavaScript</code> <code>HTML</code> <code>Bootstrap</code>
@@ -83,14 +83,14 @@ My current direction is AI engineering, with interests in agentic AI, machine le
   <tr>
     <td width="50%" valign="top">
       <p><img src="https://img.shields.io/badge/EDTECH%20%2F%20REAL--TIME-0284C7?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Education technology" /></p>
-      <h3>Linguasphere</h3>
+      <h2>Linguasphere</h2>
       A language-learning platform connecting students with verified teachers for one-to-one and small-group sessions. Includes real-time classes, enrollment workflows, and WeChat payments.
       <br /><br />
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
     </td>
     <td width="50%" valign="top">
       <p><img src="https://img.shields.io/badge/FULL--STACK%20APPLICATION-D97706?style=for-the-badge&logo=firebase&logoColor=white" alt="Full-stack application" /></p>
-      <h3>Genetically</h3>
+      <h2>Genetically</h2>
       An ancestry and DNA exploration application built with a component-based interface and Firebase-backed services.
       <br /><br />
       <code>React</code> <code>Material UI</code> <code>Firebase</code>
@@ -101,7 +101,7 @@ My current direction is AI engineering, with interests in agentic AI, machine le
 <p align="center"><sub>Project descriptions reflect my résumé. Public source links are included where available.</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:0F766E,100:2563EB&text=03%20EXPERIENCE&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Experience section" />
+  <img src="section-experience.svg" width="100%" alt="Experience section" />
 </p>
 
 <table>
@@ -140,7 +140,7 @@ My current direction is AI engineering, with interests in agentic AI, machine le
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:6D28D9,100:BE185D&text=04%20TECH%20STACK&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Technology stack section" />
+  <img src="section-stack.svg" width="100%" alt="Tech Stack section" />
 </p>
 
 <p align="center">
@@ -191,7 +191,7 @@ My current direction is AI engineering, with interests in agentic AI, machine le
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:7C3AED,100:DB2777&text=05%20RESEARCH%20DIRECTION&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Research direction section" />
+  <img src="assets/section-research.svg" width="100%" alt="Research Direction section" />
 </p>
 
 
@@ -199,7 +199,7 @@ My current technical direction is AI engineering, especially agentic AI and inte
 
 My broader technical interests include machine learning, blockchain, cryptography, autonomous systems, and scientific research. I aim to connect theoretical understanding with working implementations and careful evaluation.
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,55:0E7490,100:2563EB&text=06%20EDUCATION&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Education section" />
+  <img src="assets/section-education.svg" width="100%" alt="Education section" />
 </p>
 
 <table>
@@ -214,7 +214,7 @@ My broader technical interests include machine learning, blockchain, cryptograph
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:1D4ED8,100:0F766E&text=07%20GITHUB%20PULSE&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="GitHub pulse section" />
+  <img src="assets/section-github.svg" width="100%" alt="GitHub Pulse section" />
 </p>
 
 <p align="center">
@@ -227,13 +227,13 @@ My broader technical interests include machine learning, blockchain, cryptograph
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushanafnan&bg_color=0b1020&color=cbd5e1&line=67e8f9&point=f6c667&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <a href="https://github.com/tushanafnan?tab=overview"><img src="https://img.shields.io/badge/VIEW_CONTRIBUTION_HISTORY-18181B?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View contribution history on GitHub" /></a>
 </p>
 
-<p align="center"><sub>Stats and contribution visualizations are provided by third-party services and may occasionally be unavailable or delayed.</sub></p>
+<p align="center"><sub>GitHub statistics and streak cards are generated by external services; their values may be delayed or temporarily unavailable.</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:0B1020,50:7C3AED,100:DB2777&text=08%20CONNECT%20WITH%20ME&fontSize=23&fontColor=F8FAFC&fontFamily=JetBrains%20Mono&fontAlign=50&fontAlignY=58" width="100%" alt="Connect section" />
+  <img src="assets/section-connect.svg" width="100%" alt="Connect With Me section" />
 </p>
 
 <p align="center">
