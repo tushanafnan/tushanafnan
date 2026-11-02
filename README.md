@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&text=TUSHAN%20AFNAN&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%2F%20ML%20%7C%20BLOCKCHAIN&descSize=17&descAlignY=67&color=0:111827,35:1D4ED8,70:7C3AED,100:06B6D4" width="100%" alt="Tushan Afnan — Software Engineer, AI / ML, Blockchain" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&text=TUSHAN%20AFNAN&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20%2F%20ML%20%7C%20BLOCKCHAIN&descSize=17&descAlignY=67&color=0:0B1220,35:172B4D,70:3B2A73,100:13546D" width="100%" alt="Tushan Afnan — Software Engineer, AI / ML, Blockchain" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=ABOUT%20ME&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:111827,55:0E7490,100:06B6D4" width="100%" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=ABOUT%20ME&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:18445D,100:0E7490" width="100%" alt="About Me" />
 </p>
 
 <h2 align="center">I build full-stack products, backend systems, and practical software.</h2>
@@ -60,7 +60,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=FEATURED%20BUILDS&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:111827,40:1D4ED8,100:7C3AED" width="100%" alt="Featured Builds" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=FEATURED%20BUILDS&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:244B84,100:553493" width="100%" alt="Featured Builds" />
 </p>
 
 <table>
@@ -101,7 +101,7 @@
 <p align="center"><sub>Project descriptions reflect my résumé. Public source links are included where available.</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=EXPERIENCE&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:111827,55:0F766E,100:2563EB" width="100%" alt="Experience" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=EXPERIENCE&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:145264,100:3058A0" width="100%" alt="Experience" />
 </p>
 
 <table>
@@ -140,7 +140,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=TECH%20STACK&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:111827,45:7C3AED,100:DB2777" width="100%" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=TECH%20STACK&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:3C2F75,100:923C79" width="100%" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -179,7 +179,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=RESEARCH%20DIRECTION&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:111827,50:0E7490,100:7C3AED" width="100%" alt="Research Direction" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=RESEARCH%20DIRECTION&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:16556B,100:674091" width="100%" alt="Research Direction" />
 </p>
 
 <h3>My current direction is AI engineering, especially agentic AI and intelligent systems, supported by a practical application-development background.</h3>
@@ -189,7 +189,7 @@
 <p><strong>Broader interests:</strong> Machine learning · Blockchain · Cryptography · Autonomous systems · Scientific research</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=EDUCATION&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:111827,50:2563EB,100:06B6D4" width="100%" alt="Education" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=EDUCATION&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:214C84,100:147992" width="100%" alt="Education" />
 </p>
 
 <table>
@@ -204,7 +204,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=GITHUB%20ACTIVITY&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:111827,50:7C3AED,100:DB2777" width="100%" alt="GitHub Activity" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=GITHUB%20ACTIVITY&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:44337D,100:9F3A7C" width="100%" alt="GitHub Activity" />
 </p>
 
 <p align="center">
@@ -232,7 +232,7 @@
 <p align="center"><sub>GitHub statistics are generated in this repository and refreshed automatically by GitHub Actions.</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=LET%27S%20CONNECT&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:111827,45:0F766E,100:06B6D4" width="100%" alt="Let's Connect" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=LET%27S%20CONNECT&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:155767,100:087D92" width="100%" alt="Let's Connect" />
 </p>
 
 <p align="center">
