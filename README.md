@@ -28,13 +28,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=ABOUT%20ME&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:18445D,100:0E7490" width="100%" alt="About Me" />
 </p>
 
-<h2 align="center">I build full-stack products, backend systems, and practical software.</h2>
+<h2 align="center">I build software and enjoy figuring out how everything fits together.</h2>
 
-<h3 align="center">I'm Md. Sultanul Arefin Afnan — known as Tushan — a software engineer and MSc Software Engineering student at Dalian University of Technology.</h3>
+<h3 align="center">I'm Md. Sultanul Arefin Afnan (Tushan), a software engineer and scientific researcher pursuing an MSc in Software Engineering at Dalian University of Technology.</h3>
 
-<p align="center"><strong>My work spans product development, API engineering, platform architecture, team delivery, and production troubleshooting.</strong></p>
+<p align="center"><strong>I've worked on web applications, APIs, backend systems, and blockchain-based products. I prefer learning what a project needs rather than sticking to one tech stack.</strong></p>
 
-<h3 align="center">My current technical direction is AI engineering, with a growing focus on agentic AI, machine learning, and intelligent systems.</h3>
+<h3 align="center">Lately, I've been exploring AI/ML and agentic AI, particularly how AI agents could help developers understand codebases, plan changes, and test software.</h3>
 
 <table>
   <tr>
@@ -182,11 +182,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=RESEARCH%20DIRECTION&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:16556B,100:674091" width="100%" alt="Research Direction" />
 </p>
 
-<h3>My current direction is AI engineering, especially agentic AI and intelligent systems, supported by a practical application-development background.</h3>
+<h3>My research has involved machine learning and blockchain, including co-authoring a paper presented at an IEEE conference. I also volunteer as a peer reviewer for Elsevier's <em>Blockchain: Research and Applications</em>.</h3>
 
-<h3>I am interested in integrating intelligent capabilities into software that is testable, maintainable, and useful in real settings.</h3>
+<h3>I'm now interested in autonomous software engineering: how AI agents can work with existing code, plan development tasks, write and test changes, and recognize when something goes wrong. It's an area I'd like to explore further through research.</h3>
 
-<p><strong>Broader interests:</strong> Machine learning · Blockchain · Cryptography · Autonomous systems · Scientific research</p>
+<p><strong>Research interests:</strong> AI/ML · Agentic AI · Software Engineering · Blockchain · Cryptography</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=62&text=EDUCATION&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&color=0:0B1220,55:214C84,100:147992" width="100%" alt="Education" />
